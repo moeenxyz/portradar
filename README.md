@@ -8,6 +8,8 @@ It is designed to stay simple:
 - fast local inspection via `lsof`, `ps`, and `launchctl`
 - no background daemons, servers, or web stack
 
+![PortRadar screenshot](./screenshot.png)
+
 ## Features
 
 - shows local listening TCP ports
